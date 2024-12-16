@@ -116,7 +116,7 @@ New (500)
                 Just In 
             </h1>
             <h2 className="w-[180px] h-6 font-semibold text-base text-[#111111]">
-                Nike Air Force 1 Mid '07
+                Nike Air Force 1 Mid 07
             </h2>
             <h3 className="w-[100px] h-6 font-normal text-[#757575] text-base">
                 Men's Shoes
