@@ -32,7 +32,7 @@ const FigmaToCode = () => {
         <div className="flex w-[1440px] h-[540.36px]">
             <div className="bg-[#F6F6F6] ml-12 w-[441.36px] h-[510.36px] ">
                 <div className="flex justify-center">
-                    <Image src="/images/image.png" alt="ProductOne" width={441} height={442} />
+                    <Image src={"/images/image.png"} alt="ProductOne" width={441} height={442} />
                 </div>
                 <div className="flex text-black">
                 <h3 className=" pt-4 text-base font-semibold">
@@ -47,7 +47,7 @@ const FigmaToCode = () => {
                 </div>
                 <div className="bg-[#F6F6F6] ml-14 mb-3 w-[442px] h-[511px] ">
                 <div className="flex justify-center">
-                    <Image src="/images/image.png" alt="ProductOne" width={441} height={442} />
+                    <Image src={"/images/image.png"} alt="ProductOne" width={441} height={442} />
                 </div>
                 <div className="flex text-black">
                 <h3 className="pl-1 pt-4 text-base font-semibold">
@@ -62,7 +62,9 @@ const FigmaToCode = () => {
                 </div>
                 <div className="bg-[#F6F6F6] ml-14 mb-3 w-[442px] h-[511px] ">
                 <div className="flex justify-center">
-                    <Image src="/images/image3.png" alt="ProductOne" width={441} height={442} />
+                    <Image src={"/images/image3.png"} 
+                    alt="ProductOne" 
+                    width={441} height={442} />
                 </div>
                 <div className="flex text-black ]">
                 <h3 className="pl-1 pt-4 text-base font-semibold">

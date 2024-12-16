@@ -29,7 +29,7 @@ New (500)
 </ul>
 </div>
             </div>
-    <div className="flex w-[1440px] h-[5605px] mt-[31px] bg-blue-200">
+    <div className="flex w-[1440px] h-[5605px] mt-[31px] ">
 <div className="w-[260px] h-[849px] ml-16 grid grid-cols-2">
     <div className=" w-[192px] h-[2145.72px]">
         <ul className=" w-[192px] h-[400.72px]">
