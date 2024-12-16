@@ -1,5 +1,4 @@
 import Image from "next/image"
-import { Heart } from 'lucide-react';
 
 const FigmaToCode = () => {
     return (
@@ -43,7 +42,7 @@ const FigmaToCode = () => {
                 ₹ 13 995
                 </h3></div>
                 <h3 className="pl-1  text-base font-medium text-slate-400">
-                    Women's Shoes 
+                    Womens Shoes 
                 </h3>
                 </div>
                 <div className="bg-[#F6F6F6] ml-14 mb-3 w-[442px] h-[511px] ">
@@ -58,7 +57,7 @@ const FigmaToCode = () => {
                 ₹ 13 995
                 </h3></div>
                 <h3 className="pl-1  text-base font-medium text-slate-400">
-                    Men's Shoes 
+                    Mens Shoes 
                 </h3>
                 </div>
                 <div className="bg-[#F6F6F6] ml-14 mb-3 w-[442px] h-[511px] ">
@@ -73,7 +72,7 @@ const FigmaToCode = () => {
                 ₹ 16 995
                 </h3></div>
                 <h3 className="pl-1  text-base font-medium text-slate-400">
-                    Men's Shoes 
+                    Mens Shoes 
                 </h3>
                 </div>
         </div>

@@ -9,7 +9,7 @@ const Gearup = () => {
             <div className=" w-[666px] h-[509px] ">
                 <div className="flex w-[211px] h-12 mt-[2px] ml-[407px]">
                     <h1 className=" w-24 h-6 font-medium text-base text-black ml-1 mt-3">
-                                    Shop Men's
+                                    Shop Mens
                                 </h1>
                                 <h2 className="w-12 h-12 rounded-full bg-[#F5F5F5] mr-2">
                                     <div className="w-6 h-6 mt-3 ml-3">
@@ -43,7 +43,7 @@ const Gearup = () => {
                                 Nike Dri-FIT ADV TechKnit Ultra
                                 </h1>
                                 <h2 className="w-[200px] h-[48px] font-normal text-base text-[#757575]">
-                                Men's Short-Sleeve Running Top
+                                Mens Short-Sleeve Running Top
                                 </h2>
                             </ul>
                         </div>
@@ -65,7 +65,7 @@ const Gearup = () => {
                                 Nike Dri-FIT Challenger
                                 </h1>
                                 <h2 className="w-[200px] h-[48px] font-normal text-base text-[#757575]">
-                                Men's 18cm (approx.) 2-in-1 Versatile Shorts
+                                Mens 18cm (approx.) 2-in-1 Versatile Shorts
                                 </h2>
                             </ul>
                         </div>
@@ -78,7 +78,7 @@ const Gearup = () => {
             <div className=" w-[666px] h-[509px]">
             <div className="flex w-[211px] h-12 mt-[2px] ml-[407px]">
                     <h1 className=" w-24 h-6 font-medium text-base text-black ml-1 mt-3">
-                                    Shop Men's
+                                    Shop Mens
                                 </h1>
                                 <h2 className="w-12 h-12 rounded-full bg-[#F5F5F5] mr-2">
                                     <div className="w-6 h-6 mt-3 ml-3">
@@ -112,7 +112,7 @@ const Gearup = () => {
                                 Nike Dri-FIT ADV Run Division
                                 </h1>
                                 <h2 className="w-[200px] h-[48px] font-normal text-base text-[#757575]">
-                                Women's Long-Sleeve Running Top
+                                Womens Long-Sleeve Running Top
                                 </h2>
                             </ul>
                         </div>
@@ -134,7 +134,7 @@ const Gearup = () => {
                                 Nike Fast
                                 </h1>
                                 <h2 className="w-[230px] h-[48px] font-normal text-base text-[#757575]">
-                                Women's Mid-Rise 7/8 Running Leggings with Pockets
+                                Womens Mid-Rise 7/8 Running Leggings with Pockets
                                 </h2>
                             </ul>
                         </div>

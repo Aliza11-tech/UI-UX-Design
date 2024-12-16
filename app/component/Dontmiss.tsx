@@ -3,7 +3,7 @@ const Dontmiss = () => {
     return(
         <div className="w-[1344px] h-[977px] mt-4 ml-12">
             <div className="w-[111.48px] h-[27px] font-semibold text-lg mb-4">
-            Don't Miss
+            Dont Miss
             </div>
             <div className="w-[1344px] h-[700px]">
             <Image

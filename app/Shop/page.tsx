@@ -119,7 +119,7 @@ New (500)
                 Nike Air Force 1 Mid 07
             </h2>
             <h3 className="w-[100px] h-6 font-normal text-[#757575] text-base">
-                Men's Shoes
+                Mens Shoes
             </h3>
                 </li>
             <h1 className="w-[60.68px] h-[17px] mt-1 font-normal text-base text-[#757575]">
@@ -142,10 +142,10 @@ New (500)
                 Just In 
             </h1>
             <h2 className="w-[180px] h-6 font-semibold text-base text-[#111111]">
-                Nike Air Force 1 Mid '07
+                Nike Air Force 1 Mid 07
             </h2>
             <h3 className="w-[100px] h-6 font-normal text-[#757575] text-base">
-                Men's Shoes
+                Mens Shoes
             </h3>
                 </li>
             <h1 className="w-[60.68px] h-[17px] mt-1 font-normal text-base text-[#757575]">
@@ -168,10 +168,10 @@ New (500)
                 Just In 
             </h1>
             <h2 className="w-[180px] h-6 font-semibold text-base text-[#111111]">
-                Nike Air Force 1 Mid '07
+                Nike Air Force 1 Mid 07
             </h2>
             <h3 className="w-[100px] h-6 font-normal text-[#757575] text-base">
-                Men's Shoes
+                Mens Shoes
             </h3>
                 </li>
             <h1 className="w-[60.68px] h-[17px] mt-1 font-normal text-base text-[#757575]">
@@ -197,10 +197,10 @@ New (500)
                 Just In 
             </h1>
             <h2 className="w-[180px] h-6 font-semibold text-base text-[#111111]">
-                Nike Air Force 1 Mid '07
+                Nike Air Force 1 Mid 07
             </h2>
             <h3 className="w-[100px] h-6 font-normal text-[#757575] text-base">
-                Men's Shoes
+                Mens Shoes
             </h3>
                 </li>
             <h1 className="w-[60.68px] h-[17px] mt-1 font-normal text-base text-[#757575]">
@@ -223,10 +223,10 @@ New (500)
                 Just In 
             </h1>
             <h2 className="w-[180px] h-6 font-semibold text-base text-[#111111]">
-                Nike Air Force 1 Mid '07
+                Nike Air Force 1 Mid 07
             </h2>
             <h3 className="w-[100px] h-6 font-normal text-[#757575] text-base">
-                Men's Shoes
+                Mens Shoes
             </h3>
                 </li>
             <h1 className="w-[60.68px] h-[17px] mt-1 font-normal text-base text-[#757575]">
@@ -249,10 +249,10 @@ New (500)
                 Just In 
             </h1>
             <h2 className="w-[180px] h-6 font-semibold text-base text-[#111111]">
-                Nike Air Force 1 Mid '07
+                Nike Air Force 1 Mid 07
             </h2>
             <h3 className="w-[100px] h-6 font-normal text-[#757575] text-base">
-                Men's Shoes
+                Mens Shoes
             </h3>
                 </li>
             <h1 className="w-[60.68px] h-[17px] mt-1 font-normal text-base text-[#757575]">
@@ -278,10 +278,10 @@ New (500)
                 Just In 
             </h1>
             <h2 className="w-[180px] h-6 font-semibold text-base text-[#111111]">
-                Nike Air Force 1 Mid '07
+                Nike Air Force 1 Mid 07
             </h2>
             <h3 className="w-[100px] h-6 font-normal text-[#757575] text-base">
-                Men's Shoes
+                Mens Shoes
             </h3>
                 </li>
             <h1 className="w-[60.68px] h-[17px] mt-1 font-normal text-base text-[#757575]">
@@ -304,10 +304,10 @@ New (500)
                 Just In 
             </h1>
             <h2 className="w-[180px] h-6 font-semibold text-base text-[#111111]">
-                Nike Air Force 1 Mid '07
+                Nike Air Force 1 Mid 07
             </h2>
             <h3 className="w-[100px] h-6 font-normal text-[#757575] text-base">
-                Men's Shoes
+                Mens Shoes
             </h3>
                 </li>
             <h1 className="w-[60.68px] h-[17px] mt-1 font-normal text-base text-[#757575]">
@@ -330,10 +330,10 @@ New (500)
                 Just In 
             </h1>
             <h2 className="w-[180px] h-6 font-semibold text-base text-[#111111]">
-                Nike Air Force 1 Mid '07
+                Nike Air Force 1 Mid 07
             </h2>
             <h3 className="w-[100px] h-6 font-normal text-[#757575] text-base">
-                Men's Shoes
+                Mens Shoes
             </h3>
                 </li>
             <h1 className="w-[60.68px] h-[17px] mt-1 font-normal text-base text-[#757575]">
@@ -359,10 +359,10 @@ New (500)
                 Just In 
             </h1>
             <h2 className="w-[180px] h-6 font-semibold text-base text-[#111111]">
-                Nike Air Force 1 Mid '07
+                Nike Air Force 1 Mid 07
             </h2>
             <h3 className="w-[100px] h-6 font-normal text-[#757575] text-base">
-                Men's Shoes
+                Mens Shoes
             </h3>
                 </li>
             <h1 className="w-[60.68px] h-[17px] mt-1 font-normal text-base text-[#757575]">
@@ -385,10 +385,10 @@ New (500)
                 Just In 
             </h1>
             <h2 className="w-[180px] h-6 font-semibold text-base text-[#111111]">
-                Nike Air Force 1 Mid '07
+                Nike Air Force 1 Mid 07
             </h2>
             <h3 className="w-[100px] h-6 font-normal text-[#757575] text-base">
-                Men's Shoes
+                Mens Shoes
             </h3>
                 </li>
             <h1 className="w-[60.68px] h-[17px] mt-1 font-normal text-base text-[#757575]">
@@ -411,10 +411,10 @@ New (500)
                 Just In 
             </h1>
             <h2 className="w-[180px] h-6 font-semibold text-base text-[#111111]">
-                Nike Air Force 1 Mid '07
+                Nike Air Force 1 Mid 07
             </h2>
             <h3 className="w-[100px] h-6 font-normal text-[#757575] text-base">
-                Men's Shoes
+                Mens Shoes
             </h3>
                 </li>
             <h1 className="w-[60.68px] h-[17px] mt-1 font-normal text-base text-[#757575]">
@@ -440,10 +440,10 @@ New (500)
                 Just In 
             </h1>
             <h2 className="w-[180px] h-6 font-semibold text-base text-[#111111]">
-                Nike Air Force 1 Mid '07
+                Nike Air Force 1 Mid 07
             </h2>
             <h3 className="w-[100px] h-6 font-normal text-[#757575] text-base">
-                Men's Shoes
+                Mens Shoes
             </h3>
                 </li>
             <h1 className="w-[60.68px] h-[17px] mt-1 font-normal text-base text-[#757575]">
@@ -466,10 +466,10 @@ New (500)
                 Just In 
             </h1>
             <h2 className="w-[180px] h-6 font-semibold text-base text-[#111111]">
-                Nike Air Force 1 Mid '07
+                Nike Air Force 1 Mid 07
             </h2>
             <h3 className="w-[100px] h-6 font-normal text-[#757575] text-base">
-                Men's Shoes
+                Mens Shoes
             </h3>
                 </li>
             <h1 className="w-[60.68px] h-[17px] mt-1 font-normal text-base text-[#757575]">
@@ -492,10 +492,10 @@ New (500)
                 Just In 
             </h1>
             <h2 className="w-[180px] h-6 font-semibold text-base text-[#111111]">
-                Nike Air Force 1 Mid '07
+                Nike Air Force 1 Mid 07
             </h2>
             <h3 className="w-[100px] h-6 font-normal text-[#757575] text-base">
-                Men's Shoes
+                Mens Shoes
             </h3>
                 </li>
             <h1 className="w-[60.68px] h-[17px] mt-1 font-normal text-base text-[#757575]">
@@ -521,10 +521,10 @@ New (500)
                 Just In 
             </h1>
             <h2 className="w-[180px] h-6 font-semibold text-base text-[#111111]">
-                Nike Air Force 1 Mid '07
+                Nike Air Force 1 Mid 07
             </h2>
             <h3 className="w-[100px] h-6 font-normal text-[#757575] text-base">
-                Men's Shoes
+                Mens Shoes
             </h3>
                 </li>
             <h1 className="w-[60.68px] h-[17px] mt-1 font-normal text-base text-[#757575]">
@@ -547,10 +547,10 @@ New (500)
                 Just In 
             </h1>
             <h2 className="w-[180px] h-6 font-semibold text-base text-[#111111]">
-                Nike Air Force 1 Mid '07
+                Nike Air Force 1 Mid 07
             </h2>
             <h3 className="w-[100px] h-6 font-normal text-[#757575] text-base">
-                Men's Shoes
+                Mens Shoes
             </h3>
                 </li>
             <h1 className="w-[60.68px] h-[17px] mt-1 font-normal text-base text-[#757575]">
@@ -573,10 +573,10 @@ New (500)
                 Just In 
             </h1>
             <h2 className="w-[180px] h-6 font-semibold text-base text-[#111111]">
-                Nike Air Force 1 Mid '07
+                Nike Air Force 1 Mid 07
             </h2>
             <h3 className="w-[100px] h-6 font-normal text-[#757575] text-base">
-                Men's Shoes
+                Mens Shoes
             </h3>
                 </li>
             <h1 className="w-[60.68px] h-[17px] mt-1 font-normal text-base text-[#757575]">
@@ -602,10 +602,10 @@ New (500)
                 Just In 
             </h1>
             <h2 className="w-[180px] h-6 font-semibold text-base text-[#111111]">
-                Nike Air Force 1 Mid '07
+                Nike Air Force 1 Mid 07
             </h2>
             <h3 className="w-[100px] h-6 font-normal text-[#757575] text-base">
-                Men's Shoes
+                Mens Shoes
             </h3>
                 </li>
             <h1 className="w-[60.68px] h-[17px] mt-1 font-normal text-base text-[#757575]">
@@ -628,10 +628,10 @@ New (500)
                 Just In 
             </h1>
             <h2 className="w-[180px] h-6 font-semibold text-base text-[#111111]">
-                Nike Air Force 1 Mid '07
+                Nike Air Force 1 Mid 07
             </h2>
             <h3 className="w-[100px] h-6 font-normal text-[#757575] text-base">
-                Men's Shoes
+                Mens Shoes
             </h3>
                 </li>
             <h1 className="w-[60.68px] h-[17px] mt-1 font-normal text-base text-[#757575]">
@@ -654,10 +654,10 @@ New (500)
                 Just In 
             </h1>
             <h2 className="w-[180px] h-6 font-semibold text-base text-[#111111]">
-                Nike Air Force 1 Mid '07
+                Nike Air Force 1 Mid 07
             </h2>
             <h3 className="w-[100px] h-6 font-normal text-[#757575] text-base">
-                Men's Shoes
+                Mens Shoes
             </h3>
                 </li>
             <h1 className="w-[60.68px] h-[17px] mt-1 font-normal text-base text-[#757575]">
@@ -683,10 +683,10 @@ New (500)
                 Just In 
             </h1>
             <h2 className="w-[180px] h-6 font-semibold text-base text-[#111111]">
-                Nike Air Force 1 Mid '07
+                Nike Air Force 1 Mid 07
             </h2>
             <h3 className="w-[100px] h-6 font-normal text-[#757575] text-base">
-                Men's Shoes
+                Mens Shoes
             </h3>
                 </li>
             <h1 className="w-[60.68px] h-[17px] mt-1 font-normal text-base text-[#757575]">
@@ -709,10 +709,10 @@ New (500)
                 Just In 
             </h1>
             <h2 className="w-[180px] h-6 font-semibold text-base text-[#111111]">
-                Nike Air Force 1 Mid '07
+                Nike Air Force 1 Mid 07
             </h2>
             <h3 className="w-[100px] h-6 font-normal text-[#757575] text-base">
-                Men's Shoes
+                Mens Shoes
             </h3>
                 </li>
             <h1 className="w-[60.68px] h-[17px] mt-1 font-normal text-base text-[#757575]">
@@ -735,10 +735,10 @@ New (500)
                 Just In 
             </h1>
             <h2 className="w-[180px] h-6 font-semibold text-base text-[#111111]">
-                Nike Air Force 1 Mid '07
+                Nike Air Force 1 Mid 07
             </h2>
             <h3 className="w-[100px] h-6 font-normal text-[#757575] text-base">
-                Men's Shoes
+                Mens Shoes
             </h3>
                 </li>
             <h1 className="w-[60.68px] h-[17px] mt-1 font-normal text-base text-[#757575]">
@@ -764,10 +764,10 @@ New (500)
                 Just In 
             </h1>
             <h2 className="w-[180px] h-6 font-semibold text-base text-[#111111]">
-                Nike Air Force 1 Mid '07
+                Nike Air Force 1 Mid 07
             </h2>
             <h3 className="w-[100px] h-6 font-normal text-[#757575] text-base">
-                Men's Shoes
+                Mens Shoes
             </h3>
                 </li>
             <h1 className="w-[60.68px] h-[17px] mt-1 font-normal text-base text-[#757575]">
@@ -790,10 +790,10 @@ New (500)
                 Just In 
             </h1>
             <h2 className="w-[180px] h-6 font-semibold text-base text-[#111111]">
-                Nike Air Force 1 Mid '07
+                Nike Air Force 1 Mid 07
             </h2>
             <h3 className="w-[100px] h-6 font-normal text-[#757575] text-base">
-                Men's Shoes
+                Mens Shoes
             </h3>
                 </li>
             <h1 className="w-[60.68px] h-[17px] mt-1 font-normal text-base text-[#757575]">
@@ -816,10 +816,10 @@ New (500)
                 Just In 
             </h1>
             <h2 className="w-[180px] h-6 font-semibold text-base text-[#111111]">
-                Nike Air Force 1 Mid '07
+                Nike Air Force 1 Mid 07
             </h2>
             <h3 className="w-[100px] h-6 font-normal text-[#757575] text-base">
-                Men's Shoes
+                Mens Shoes
             </h3>
                 </li>
             <h1 className="w-[60.68px] h-[17px] mt-1 font-normal text-base text-[#757575]">
@@ -845,10 +845,10 @@ New (500)
                 Just In 
             </h1>
             <h2 className="w-[180px] h-6 font-semibold text-base text-[#111111]">
-                Nike Air Force 1 Mid '07
+                Nike Air Force 1 Mid 07
             </h2>
             <h3 className="w-[100px] h-6 font-normal text-[#757575] text-base">
-                Men's Shoes
+                Mens Shoes
             </h3>
                 </li>
             <h1 className="w-[60.68px] h-[17px] mt-1 font-normal text-base text-[#757575]">
@@ -871,10 +871,10 @@ New (500)
                 Just In 
             </h1>
             <h2 className="w-[180px] h-6 font-semibold text-base text-[#111111]">
-                Nike Air Force 1 Mid '07
+                Nike Air Force 1 Mid 07
             </h2>
             <h3 className="w-[100px] h-6 font-normal text-[#757575] text-base">
-                Men's Shoes
+                Mens Shoes
             </h3>
                 </li>
             <h1 className="w-[60.68px] h-[17px] mt-1 font-normal text-base text-[#757575]">
@@ -897,10 +897,10 @@ New (500)
                 Just In 
             </h1>
             <h2 className="w-[180px] h-6 font-semibold text-base text-[#111111]">
-                Nike Air Force 1 Mid '07
+                Nike Air Force 1 Mid 07
             </h2>
             <h3 className="w-[100px] h-6 font-normal text-[#757575] text-base">
-                Men's Shoes
+                Mens Shoes
             </h3>
                 </li>
             <h1 className="w-[60.68px] h-[17px] mt-1 font-normal text-base text-[#757575]">
@@ -911,7 +911,7 @@ New (500)
             </h1> </ul>
         </div>
     </div>
-        <div className="w-[1092px] h-[230px] mt-8">
+        <div className="w-[1092px] h-[230px] mt-8 ">
             <h1 className="w-[171.42px] h-[22px] pt-16 font-semibold text-lg text-[#111111]">
                 Related Categories
             </h1>
@@ -929,13 +929,13 @@ New (500)
     New Football Shoes
     </h1>
     <h1 className="w-[143px] h-[34px] mt-6 ml-[6px] text-center text-xs font-normal rounded-3xl border-4 border-[#CCCCCC] pt-[6px] pr-[20px] pb-[6px] pl-[20px]">
-    New Men's Shoes
+    New Mens Shoes
     </h1>
     <h1 className="w-[157px] h-[34px] mt-6 ml-[6px] text-center text-xs font-normal rounded-3xl border-4 border-[#CCCCCC] pt-[6px] pr-[20px] pb-[6px] pl-[20px]">
     New Running Shoes
     </h1>
     <h1 className="w-[150px] h-[34px] mt-6 ml-[6px] text-center text-xs font-normal rounded-3xl border-4 border-[#CCCCCC] pt-[6px] pr-[20px] pb-[6px] pl-[20px]">
-    Best Men's Shoes
+    Best Mens Shoes
     </h1>
     </div>
         <div className="flex w-[1092px] h-[80px]">
@@ -943,7 +943,7 @@ New (500)
     New Jordan Shoes
     </h1>
     <h1 className="w-[161px] h-[34px] mt-6 ml-2 text-center text-xs font-normal rounded-3xl border-4 border-[#CCCCCC] pt-[6px] pr-[20px] pb-[6px] pl-[20px]">
-    Best Women's Shoes
+    Best Womens Shoes
     </h1>
     <h1 className="w-[157px] h-[34px] mt-6 ml-2 text-center text-xs font-normal rounded-3xl border-4 border-[#CCCCCC] pt-[6px] pr-[20px] pb-[6px] pl-[20px]">
     Best Training & Gym

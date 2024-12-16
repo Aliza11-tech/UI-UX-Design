@@ -81,7 +81,7 @@ const Last = () => {
                 </div>
                 <div><div className=" w-[184px] h-6 ml-[48px]">
                 <h1 className="w-[45.58px] h-[17px] mt-[3px] font-medium text-base">
-                Kid's</h1></div>
+                Kids</h1></div>
                 <div className=" w-[184px] h-[144px] mt-5 ml-[48px]">
                     <div className="w-[184px] h-6">
                 <h1 className="w-[161.79px] h-[17px] mt-[3px] font-medium text-base text-[#757575]">
@@ -90,17 +90,17 @@ const Last = () => {
                     </div>
                     <div className="w-[184px] h-6 mt-4">
                 <h1 className="w-[84.2px] h-[17px] mt-[3px] font-medium text-base text-[#757575]">
-                Kid's Shoes
+                Kids Shoes
                 </h1>
                     </div>
                     <div className="w-[184px] h-6 mt-4">
                 <h1 className="w-[137.56px] h-[17px] mt-[3px] font-medium text-base text-[#757575]">
-                Kid's Jordan Shoes
+                Kids Jordan Shoes
                 </h1>
                     </div>
                     <div className="w-[184px] h-6 mt-4">
                 <h1 className="w-[162.47px] h-[17px] mt-[3px] font-medium text-base text-[#757575]">
-                Kid's Basketball Shoes
+                Kids Basketball Shoes
                 </h1>
                     </div>
                 </div>
