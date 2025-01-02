@@ -35,7 +35,7 @@ Forgotten your password?
 </div></div>
          <div className="w-[324px] h-[59px] mt-2">
 <ul className="w-[279.31px] h-[30px] mt-10 ml-[22.44px] text-[#8D8D8D] text-center">
-    <h1 className="flex font-normal text-center text-xs">By logging in, you agree to Nike's 
+    <h1 className="flex font-normal text-center text-xs">By logging in, you agree to Nikes 
         <p className="font-normal text-xs text-center underline pl-1">Privacy Policy </p></h1>
         <h1 className="font-normal text-center text-xs">and Terms of Use.</h1>
          </ul></div>

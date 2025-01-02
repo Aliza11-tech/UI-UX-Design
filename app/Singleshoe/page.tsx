@@ -17,7 +17,7 @@ const Singleshoe = () => {
     <div className="w-[374.92px] h-[413px] pt-6 pb-[1px] gap-[2px]">
         <div className="w-[374.92px] h-[342px]">
         <p className="w-[374.92px] h-[252px] font-normal text-lg">
-        Turn style on its head with this crafted take on the Air Jordan 1 Mid. Its "inside out"-inspired construction, including unique layering and exposed foam accents, ups the ante on this timeless Jordan Brand silhouette. Details like the deco stitching on the Swoosh add coveted appeal, while the unexpected shading, rich mixture of materials and aged midsole aesthetic give this release an artisan finish.
+        Turn style on its head with this crafted take on the Air Jordan 1 Mid. Its &quot;inside out&quot;-inspired construction, including unique layering and exposed foam accents, ups the ante on this timeless Jordan Brand silhouette. Details like the deco stitching on the Swoosh add coveted appeal, while the unexpected shading, rich mixture of materials and aged midsole aesthetic give this release an artisan finish.
         </p>
         <h1 className="w-[294.44px] h-[90px] pt-8 pb-8 pr-16 gap-1">
     <p className=" w-[229px] h-[34px] font-semibold text-4xl font-[poppins]">₹ 8 695.00</p>

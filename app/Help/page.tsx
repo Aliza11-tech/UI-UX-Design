@@ -31,7 +31,7 @@ online fast and easy, and we accept the following payment options:
      Club, Discover, American Express, Visa Electron, Maestro
     </p>
     <p className="w-[870.93px] h-[17px] mt-6 ml-4 font-normal text-base">
-    If you enter your PAN information at checkout, you'll be able
+    If you enter your PAN information at checkout, youll be able
      to pay for your order with PayTM or a local credit or debit card.
     </p>
     <p className="w-[73.14px]  h-[17px] mt-6 ml-4 font-normal text-base">
@@ -43,7 +43,7 @@ online fast and easy, and we accept the following payment options:
 <h2 className="flex w-[894.33px] h-[15px] mt-[5px] font-medium text-base">
 <p className="w-[110px] h-[15px] font-medium text-base underline">Nike Members</p> 
 <p className="h-[15px] w-[740px] font-medium text-base">can store multiple debit or credit cards in 
-their profile for faster checkout. If you're not already a Member,</p> 
+their profile for faster checkout. If youre not already a Member,</p> 
 <p className="font-medium text-base underline w-[40px] pl-1 h-[15px]">join</p>
 </h2>
 <h2 className="flex w-[894.33px] h-[30px] font-medium text-base pt-2">
@@ -78,7 +78,7 @@ card. You will be notified at checkout if international purchases need to be ena
 <div className="w-[923.75px] h-[56px] mt-5">
     <h1 className="w-[553.75px] h-[45px] mt-[5px]">
 <p className="font-semibold text-base">Can I pay for my order with multiple methods?</p>
-<p className="font-normal text-base">No, payment for Nike orders can't be split between multiple payment methods.</p>
+<p className="font-normal text-base">No, payment for Nike orders cant be split between multiple payment methods.</p>
     </h1>
 </div>
 <div className="w-[923.75px] h-[56px] mt-5">
@@ -89,10 +89,10 @@ card. You will be notified at checkout if international purchases need to be ena
 </div>
 <div className="w-[923.75px] h-[56px] mt-5">
     <h1 className="w-[922.04px] h-[45px] mt-[5px]">
-<p className="font-semibold text-base">Why don't I see Apple Pay as an option?</p>
-<p className="font-normal text-base">To see Apple Pay as an option in the Nike App or on Nike.com, you'll need 
+<p className="font-semibold text-base">Why dont I see Apple Pay as an option?</p>
+<p className="font-normal text-base">To see Apple Pay as an option in the Nike App or on Nike.com, youll need 
     to use a compatible Apple device running the latest OS, be signed in to your iCloud account and have a 
-    supported card in your Wallet. Additionally, you'll need to use Safari to use Apple Pay on Nike.com.</p>
+    supported card in your Wallet. Additionally, youll need to use Safari to use Apple Pay on Nike.com.</p>
     </h1>
 </div>
 <div className="w-[923.75px] h-[175px] mt-16">
@@ -119,7 +119,7 @@ card. You will be notified at checkout if international purchases need to be ena
 </p>
 <ul className="w-[907.75px] h-[68px] mt-5 ml-4">
     <p className="w-[306.17px] h-[17px] mt-[5px] ml-4 font-sans text-base font-medium leading-7 text-left underline underline-offset-0 decoration-solid decoration-from-font decoration-skip-ink-none">
-    WHAT ARE NIKE'S DELIVERY OPTIONS?
+    WHAT ARE NIKES DELIVERY OPTIONS?
     </p>
     <p className="w-[395.84px] h-[17px] mt-[23px] ml-4 font-sans text-base font-medium leading-7 text-left underline underline-offset-0 decoration-solid decoration-from-font decoration-skip-ink-none">
     HOW DO I GET FREE DELIVERY ON NIKE ORDERS?

@@ -57,7 +57,7 @@ Sign up for emails to get updates from Nike on products, offers and your Member 
 </h1></ul>
 <div className="w-[324px] h-[59px] mt-2">
 <ul className="w-[311px] h-[30px] mt-10 ml-[7.44px] text-[#8D8D8D] text-center">
-    <h1 className="flex font-normal text-center text-xs">By creating an account, you agree to Nike's 
+    <h1 className="flex font-normal text-center text-xs">By creating an account, you agree to Nikes 
 <p className="font-normal text-xs text-center underline pl-1">Privacy Policy </p></h1>
 <h1 className="flex font-normal text-center text-xs ml-24">and 
 <p className="font-normal text-xs text-center underline pl-1">Terms of Use</p></h1>

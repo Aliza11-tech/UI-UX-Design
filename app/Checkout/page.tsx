@@ -11,7 +11,7 @@ const Checkout = () =>{
         <ul className="w-[440px] h-[338px] pb-6 gap-6">
             <li className="w-[440px] h-[208px] pt-[7px] pr-[2.39px] pb-[9px]">
                 <h1 className="w-[437.61px] h-[192px] font-sans font-normal text-sm leading-6 text-[#757575]">
-                Customs regulation for India require a copy of the recipient's KYC. 
+                Customs regulation for India require a copy of the recipients KYC. 
                 The address on the KYC needs to match the shipping address. Our courier will contact 
                 you via SMS/email to obtain a copy of your KYC. The KYC will be stored securely and 
                 used solely for the purpose of clearing customs (including sharing it 
@@ -197,7 +197,7 @@ placeholder="Locality"/>
                     </h1>
                     <h2 className="w-[100px] h-[178.78px]">
                         <p className="w-[85.53px] h-[120px] font-normal text-[13px] leading-6">
-                        Nike Dri-FIT ADV TechKnit Ultra Men's Short-Sleeve Running Top
+                        Nike Dri-FIT ADV TechKnit Ultra Mens Short-Sleeve Running Top
                         </p>
                         <p className="w-[32px] h-[20px] font-normal text-[13px] leading-[19.6px] text-[#8D8D8D]">
                             Qty 1
