@@ -1,20 +1,21 @@
+import Link from "next/link"
 import Image from "next/image"
 const Footerr = () => {
     return(
-        <div className="bg-black w-full h-[331px] mt-6">
+        <div className="bg-black w-[1500px] h-[331px] mt-6">
     <div className="flex  w-[1372px] h-[213px] mt-10 ml-[48px]">
     <div className=" w-[1029px] h-[213px] mt-10">
         <div className="flex"><div className=" w-[245.25px] h-[166.63px]">
-            <h1 className="w-[100px] h-8 pt-2 font-normal text-base text-[#FFFFFF]">
+           <Link href="/Shop"> <h1 className="w-[100px] h-8 pt-2 font-normal text-base text-[#FFFFFF]">
             Find A Store
-            </h1>
-            <h1 className="w-[180px] h-8 pt-2 font-normal text-base text-[#FFFFFF]">
+            </h1></Link>
+            <Link href={"/Joinus"}><h1 className="w-[180px] h-8 pt-2 font-normal text-base text-[#FFFFFF]">
             Become A Member
-            </h1>
-            <h1 className="w-[180px] h-8 pt-2 font-normal text-base text-[#FFFFFF]">
+            </h1></Link>
+            <Link href="/Signin"><h1 className="w-[180px] h-8 pt-2 font-normal text-base text-[#FFFFFF]">
             Sign Up for Email
-            </h1>
-            <h1 className="w-[180px] h-8 pt-2 font-normal text-base text-[#FFFFFF]">
+            </h1></Link>
+             <h1 className="w-[180px] h-8 pt-2 font-normal text-base text-[#FFFFFF]">
             Send Us Feedback
             </h1>
             <h1 className="w-[180px] h-8 pt-2 font-normal text-base text-[#FFFFFF]">
@@ -22,9 +23,9 @@ const Footerr = () => {
             </h1>
         </div>
         <div className=" w-[245.25px] h-[213px]">
-            <h1 className="w-[100px] h-8 pt-1 font-normal text-base text-[#FFFFFF]">
+            <Link href="/Help"><h1 className="w-[100px] h-8 pt-1 font-normal text-base text-[#FFFFFF]">
             GET HELP
-            </h1>
+            </h1></Link>
             <h1 className="w-[180.93px] h-8 pt-1 font-normal text-sm text-[#7E7E7E]">
             Order Status
             </h1>
@@ -45,9 +46,9 @@ const Footerr = () => {
             </h1>
         </div>
         <div className="ml-12 w-[245.25px] h-[151px]">
-            <h1 className="w-[180px] h-8 pt-1 font-normal text-base text-[#FFFFFF]">
+        <Link href="/Home"><h1 className="w-[180px] h-8 pt-1 font-normal text-base text-[#FFFFFF]">
             ABOUT NIKE
-            </h1>
+            </h1></Link>
             <h1 className="w-[180.93px] h-8 pt-1 font-normal text-sm text-[#7E7E7E]">
             News
             </h1>

@@ -1,4 +1,5 @@
 import Image from "next/image"
+import Link from "next/link"
 import { ChevronDown } from "lucide-react"
 import { ChevronUp } from "lucide-react"
 const Shop = () => {
@@ -158,10 +159,10 @@ New (500)
 
         <div className="w-[348px] h-[533px] ml-2">
             <ul className=" w-[348px] h-[348px] bg-[#F5F5F5]">
-                <Image 
+               <Link href="/Singleshoe"> <Image 
             src={"/images/Rectangle (3).png"}
             alt="pic"
-            width={300} height={300}/></ul>
+            width={300} height={300}/> </Link></ul>
             <ul className="w-[348px] h-[185px]">
                 <li className="w-[169.34px] h-[76px]">
             <h1 className="w-[80px] h-7 font-medium text-base text-[#9E3500] mt-2">

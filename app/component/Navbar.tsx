@@ -7,7 +7,7 @@ const Navbar = () => {
     return (
       <div>
         <div>
-        <nav className="w-full bg-[#F5F5F5] ">
+        <nav className="w-[1500px] bg-[#F5F5F5] ">
             <ul className="flex w-[1440px] h-[36px] text-black bg-[#F5F5F5]">
                 <li className="w-7 h-7 ml-8 mt-1">
                        <Image
@@ -20,11 +20,11 @@ const Navbar = () => {
         <ul className=" flex w-96 h-7 ml-[850px] text-center mt-1 mb-1 bg-[#F5F5F5] text-black gap-4">
         <Link href="/Shop"> Find a Store </Link>
                     <p>|</p>
-                <li> <a href="">Help</a> </li>
+                    <Link href="/Help"> Help </Link>
                 <p>|</p>
-                <li> <a href="">Join Us</a> </li>
+                <Link href="/Joinus">Join Us</Link>
                 <p>|</p>
-                <li> <a href="">Sign In</a> </li>
+                <Link href="/Signin">Sign In</Link>
                     </ul>
             </ul>
         </nav>
@@ -38,7 +38,7 @@ const Navbar = () => {
                     </li> </ul>
 <ul className=" flex p-5 text-black items-center justify-center gap-5 ml-80 font-semibold">
                     <li> <a href="">New & Featured</a> </li>
-                <li> <a href="">Men</a> </li>
+                    <Link href="/Bag">Men</Link>
                 <li> <a href="">Women</a> </li>
                 <li> <a href="">Kids</a> </li>
                 <li> <a href="">Sale</a> </li>
